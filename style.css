@@ -1,0 +1,23 @@
+body{
+  background-color: lightblue ;
+
+  margin: 0;
+}
+
+
+header {
+  background-color: gray;
+  height: 120px ;
+}
+nav{float: right;}
+h1{float: left;
+}
+
+p{background-color :gold ;
+margin: 10px;
+padding: 30px;}
+div{display: inline-block;
+padding: 50px ;  }
+
+img {width: 250px;
+height: 250px;}
