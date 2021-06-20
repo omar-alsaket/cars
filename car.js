@@ -5,9 +5,9 @@ var name = prompt("what is your name")
 alert(" welcome  " + name )
 
 
-var favcar =prompt("what is your favcar here (bmw,audi,mercedes)?")
+// var favcar =prompt("what is your favcar here (bmw,audi,mercedes)?")
 
-while(favcar  != "mercedes"  && favcar != "bmw"  && favcar != "audi" ){ favcar = prompt ("sorry try again")}
+// while(favcar  != "mercedes"  && favcar != "bmw"  && favcar != "audi" ){ favcar = prompt ("sorry try again")}
 
 var favcar = prompt ("what is your favcar(mercedes or bmw or audi?")
 
