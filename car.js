@@ -1,5 +1,13 @@
 var name = prompt ("what is your name?")
 alert ("welcome    " + name)
+
+
+var fastcar = prompt("what is the fast car in the wourld?")
+
+while (fastcar != "mercedes" && fastcar != "bmw" &&  fastcar != "audi" ) { 
+  fastcar = prompt("wrong answer")}
+  
+
 function starsNumber (){
 var starsnum = prompt ("how many stars do you rate our website ?")
 // document . write (  img src ="  "  )
